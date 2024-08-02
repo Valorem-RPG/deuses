@@ -1,2 +1,2 @@
 # deuses
-- Deuses dentro do RPG
+- deuses dentro do RPG
